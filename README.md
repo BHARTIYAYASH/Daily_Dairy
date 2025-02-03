@@ -38,7 +38,7 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-Access the app at **http://127.0.0.1:8000/**
+Access the app at **https://daily-dairy-1-za7n.onrender.com/**
 
 ## 🌍 Deployment on Render
 1. Push code to **GitHub**
@@ -51,8 +51,7 @@ Access the app at **http://127.0.0.1:8000/**
    ```
 5. Get your **live URL** and start tracking!
 
-## 📜 License
-This project is open-source under the **MIT License**.
+
 
 ---
 
