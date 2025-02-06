@@ -38,7 +38,7 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-Access the app at **https://daily-dairy-1-za7n.onrender.com/**
+
 
 ## 🌍 Deployment on Render
 1. Push code to **GitHub**
