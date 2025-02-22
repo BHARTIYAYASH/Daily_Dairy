@@ -3,6 +3,10 @@
 ## 📌 Project Description
 DailyDairy is a web-based **Daily Dairy Consumption Tracker** that allows users to log, edit, and track their dairy consumption. Users can record items such as milk, cheese, and butter along with their quantity and date of consumption. The app supports real-time date selection and allows modifications to entries.
 
+**This is a small-scale personal project that I initially built on my own, and the full code is available here on GitHub. Later, I experimented with  Lovable (no-code just prompts) to create it, and it turned out to be quite decent.**
+
+🚀 **Live Demo**: Check out here: https://daily-dairy.lovable.app
+
 ## 🚀 Features
 - 📅 **Real-time Date Selection** – Default date is set to the current day, but users can choose a different date.
 - ✏️ **Edit Entries** – Modify item name, quantity, and date after adding them.
